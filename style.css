@@ -1,0 +1,20 @@
+cool{
+  border-radius: 100%;
+  color: red;
+  background-color: grey;
+}
+.square{
+  width: 40px;
+  height: 40px;
+  background-color: red;
+ }
+table{
+  margin: auto;
+}
+
+.yes{
+  background-color: lightblue;
+  width: 40px;
+  height: 40px;
+  
+}
